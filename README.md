@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 I’m a Full Stack Developer passionate about designing and implementing secure, scalable, and high-performance applications.  
-With expertise in **Java, C++, Spring Boot, React.js, and SQL, I focus on clean code, robust architecture, and delivering real business value.  
+With expertise in Java, C++, Spring Boot, React.js, and SQL, I focus on clean code, robust architecture, and delivering real business value.  
 
 🔹 PG-DAC (C-DAC Pune, 2024-25) – Advanced training in Java, Software Engineering, Web Tech, Data Structures  
 🔹 B.Tech in Computer Engineering (G.H. Raisoni College, Pune, 2024) – CGPA: 7.7  
