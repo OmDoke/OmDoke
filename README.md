@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Onkar Doke  
+# 👋 Hi, I’m Om  
 
 💻 Java & C++ Developer | Full Stack Developer (Spring Boot • React.js • SQL)
 🚀 Building secure, scalable, and user-focused web applications  
@@ -44,10 +44,8 @@ I’m currently seeking Java Developer | C++ Developer | Full Stack Developer ro
 
 ---
 
-## 🎓 Certifications
-- Google: *Using Python to Interact with the Operating System*  
-- Coursera: *Use Canva to Create Desktop & Mobile-friendly Web Pages*  
-- CDAC PG-DAC Certification *(in progress)*  
+## 🎓 Certifications 
+- CDAC PG-DAC Certification   
 
 ---
 
